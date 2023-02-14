@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(133, 133, 235);
+    padding: 10px;
+    margin-top: -10px;
+}
+.img1 img{
+    height: 440px;
+    width: 35%;
+    object-fit: cover;
+   float: right;
+   margin-top: -250px;
+   margin-right:   0 px;
+}
+.img2 img{
+    height: 400;
+    width: 35%;
+    object-fit: cover;
+   float: right;
+   margin-top: -200px;
+   margin-right:   0 px;
+}
+h1{
+    text-align: center;
+    color: rgb(9, 9, 10);
+}
+ h2{
+    color: rgb(255, 72, 0);
+}
+.def{
+    height: auto;
+    width: 50%;
+    padding-left: 10px;
+     
+}
+  
+ .career{
+    height: auto;
+    width: 50%;
+    padding-left: 10px;
+}
+ 
